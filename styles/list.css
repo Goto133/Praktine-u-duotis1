@@ -1,0 +1,91 @@
+.preList1 {
+    display: flex;
+    align-items: center;
+    height: 20px;
+    font-family: Lato;
+    font-weight: 300;
+    font-size: 16px;
+    width: 100%;
+}
+
+.list1 {
+    display: block;
+    list-style-type: none;
+    margin-top: 120px;
+    color: black;
+
+}
+
+.list1 a {
+    list-style-type: none;
+    margin-right: 10px;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: 600;
+    margin-top: 50px;
+    border-radius: 7%;
+    display: flex;
+}
+
+.list1 li{
+    margin: 10px;
+}
+
+.navBar img{
+    height: 30px;
+    margin: 15px;
+    margin-top: 80px;
+
+}
+
+.email {
+    font: 1.25rem / 1.5 Lato;
+    display: block;
+    box-sizing: border-box;
+    width: 40%;
+    padding: 0.5rem 0.75rem;
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 330px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0;
+}
+.button1 {
+    background-color: rgba(0, 123, 255, 255);
+    color: #eee;
+    padding: 15px 25px;
+    text-decoration: none;
+    position: absolute;
+    margin-left: 65.5%;
+    margin-top: 328px;
+    height: 13px;
+    border-radius: 5px;
+
+}
+.button2 {
+    background-color: rgba(0, 123, 255, 255);
+    color: #eee;
+    padding: 15px 25px;
+    text-decoration: none;
+    position: absolute;
+    margin-left: 65.5%;
+    margin-top: 200px;
+    height: 13px;
+    border-radius: 5px;
+
+}
+
+.email1 {
+    font: 1.25rem / 1.5 Lato;
+    display: block;
+    box-sizing: border-box;
+    width: 40%;
+    padding: 0.5rem 0.75rem;
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0;
+}
